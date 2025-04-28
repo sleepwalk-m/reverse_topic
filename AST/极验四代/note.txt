@@ -1,0 +1,7 @@
+1. 逆向目标 verify 的 w
+
+2. w分为两段
+2.1 对一个16位的key 去rsa加密 key随机生成的
+2.2 aes cbc 传json和key
+
+setleft
